@@ -1,0 +1,4 @@
+Esse projeto foi desenvolvido utilizando o p5js para criar um jogo criativo e educativo, onde o jogador desenvolve o papel do jardineiro ele é responsável por plantar árvores e controlar a temperatura,para mexer deve usar as setas do teclado
+Para a movimentação do jogo devemos usar as setas do teclado para mover o jardineiro pela tela,para plantar árvores pressione a letra A no teclado ou usar o espaço para plantar árvores também.
+O objetivo do jogo é diminuir a temperatura plantando as árvores, a cada árvores plantadas diminui 3 graus e o jogo acaba quando a temperatura atinge 50 graus ou quando o número de árvores plantadas é maior do que a temperatura.
+ A temperatura começa em 10 graus e aumenta ao longo do tempo e para vencer o jogo o jogador precisa plantar árvores suficientes para reduzir a temperatura para um nível confortável e o jogo acaba quando a temperatura atinge 50 graus ou quando o números de árvores ultrapassa a temperatura.
